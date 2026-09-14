@@ -1,4 +1,4 @@
-# 🛡️ Network Intrusion Detection System Using Machine Learning
+# 🛡️ NetShield - Network Intrusion Detection System Using Machine Learning
 
 ## 📌 Overview
 
